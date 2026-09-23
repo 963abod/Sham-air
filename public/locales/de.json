@@ -1,0 +1,7 @@
+{
+  "tagline": "VON DAMASKUS, IN DIE WELT.",
+  "brand": "SHAM AIR",
+  "nav": { "book": "Flug buchen", "destinations": "Ziele", "experience": "Erlebnis", "fleet": "Flotte", "flightStatus": "Flugstatus", "checkIn": "Check-In", "manage": "Buchung verwalten", "privilege": "Sham Privilege" },
+  "hero": { "title": "Damaszener Luxus über den Wolken", "subtitle": "Die Ultra-Luxus-Fluggesellschaft, die Damaskus mit der Welt verbindet.", "ctaBook": "Jetzt Buchen", "ctaDiscover": "Flotte Erkunden" },
+  "booking": { "roundTrip": "Hin- und Rückflug", "oneWay": "Hinflug", "multiCity": "Multi-Stopp", "from": "Von", "to": "Nach", "depart": "Hinflug", "return": "Rückflug", "passengers": "Passagiere", "class": "Klasse", "search": "Flüge Suchen" }
+}

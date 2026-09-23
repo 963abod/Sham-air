@@ -1,0 +1,7 @@
+{
+  "tagline": "DA DAMASCO, AL MONDO.",
+  "brand": "SHAM AIR",
+  "nav": { "book": "Prenota", "destinations": "Destinazioni", "experience": "Esperienza", "fleet": "Flotta", "flightStatus": "Stato del Volo", "checkIn": "Check-In", "manage": "Gestisci Prenotazione", "privilege": "Sham Privilege" },
+  "hero": { "title": "Lusso Imperiale Siriano Sopra le Nuvole", "subtitle": "La compagnia aerea di ultra-lusso che connette Damasco con le capitali del mondo.", "ctaBook": "Prenota Ora", "ctaDiscover": "Esplora Flotta" },
+  "booking": { "roundTrip": "Andata e Ritorno", "oneWay": "Solo Andata", "multiCity": "Multitratta", "from": "Da", "to": "A", "depart": "Partenza", "return": "Ritorno", "passengers": "Passeggeri", "class": "Classe", "search": "Cerca Voli" }
+}

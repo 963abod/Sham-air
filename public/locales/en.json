@@ -1,0 +1,32 @@
+{
+  "tagline": "FROM DAMASCUS, TO THE WORLD.",
+  "brand": "SHAM AIR",
+  "nav": {
+    "book": "Book Flight",
+    "destinations": "Destinations",
+    "experience": "The Experience",
+    "fleet": "Fleet",
+    "flightStatus": "Flight Status",
+    "checkIn": "Check-In",
+    "manage": "Manage Trip",
+    "privilege": "Sham Privilege"
+  },
+  "hero": {
+    "title": "Damascene Imperial Luxury Above The Clouds",
+    "subtitle": "The ultra-luxury international airline reconnecting the heart of Damascus to the world.",
+    "ctaBook": "Book Your Sanctuary",
+    "ctaDiscover": "Explore Fleet"
+  },
+  "booking": {
+    "roundTrip": "Round Trip",
+    "oneWay": "One Way",
+    "multiCity": "Multi-City",
+    "from": "From",
+    "to": "To",
+    "depart": "Departure",
+    "return": "Return",
+    "passengers": "Passengers",
+    "class": "Class",
+    "search": "Search Flights"
+  }
+}

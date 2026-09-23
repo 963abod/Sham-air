@@ -1,0 +1,49 @@
+
+> my-app@0.1.0 dev
+> next dev
+
+▲ Next.js 16.3.6 (Turbopack)
+- Local:         http://localhost:3000
+- Network:       http://192.168.0.2:3000
+✓ Ready in 946ms
+✓ Running next.config.ts took 49ms
+
+ HEAD / 307 in 3.0s (next.js: 2.7s, application-code: 228ms)
+⨯ Error: useCurrency must be used within a CurrencyProvider
+    at useCurrency (src/context/CurrencyContext.tsx:52:11)
+    at CurrencySwitcher (src/components/common/CurrencySwitcher.tsx:8:48)
+  50 |   const context = useContext(CurrencyContext);
+  51 |   if (!context) {
+> 52 |     throw new Error('useCurrency must be used within a CurrencyProvider');
+     |           ^
+  53 |   }
+  54 |   return context;
+  55 | } {
+  digest: '1814864230'
+}
+ GET /en 500 in 4.0s (next.js: 3.6s, application-code: 446ms)
+[browser] Uncaught Error: useCurrency must be used within a CurrencyProvider
+    at useCurrency (src/context/CurrencyContext.tsx:52:11)
+    at CurrencySwitcher (src/components/common/CurrencySwitcher.tsx:8:48)
+    at Navbar (src/components/common/Navbar.tsx:62:13)
+    at HomePage (src/app/[locale]/page.tsx:17:7)
+  50 |   const context = useContext(CurrencyContext);
+  51 |   if (!context) {
+> 52 |     throw new Error('useCurrency must be used within a CurrencyProvider');
+     |           ^
+  53 |   }
+  54 |   return context;
+  55 | }
+ GET /en 200 in 571ms (next.js: 35ms, application-code: 536ms)
+[browser] GSAP target .cinema-layer-1 not found. https://gsap.com (src/hooks/useScrollCinema.ts:16:12)
+[browser] GSAP target  not found. https://gsap.com (src/hooks/useScrollCinema.ts:16:12)
+[browser] GSAP target  not found. https://gsap.com (src/hooks/useScrollCinema.ts:16:12)
+[browser] GSAP target  not found. https://gsap.com (src/hooks/useScrollCinema.ts:16:12)
+[browser] GSAP target  not found. https://gsap.com (<anonymous>)
+[browser] GSAP target  not found. https://gsap.com (<anonymous>)
+[browser] GSAP target  not found. https://gsap.com (src/hooks/useScrollCinema.ts:48:22)
+[browser] GSAP target .cinema-layer-1 not found. https://gsap.com (src/hooks/useScrollCinema.ts:16:12)
+[browser] GSAP target  not found. https://gsap.com (src/hooks/useScrollCinema.ts:16:12)
+[browser] GSAP target  not found. https://gsap.com (src/hooks/useScrollCinema.ts:16:12)
+[browser] GSAP target  not found. https://gsap.com (src/hooks/useScrollCinema.ts:16:12)
+[browser] THREE.Clock: This module has been deprecated. Please use THREE.Timer instead.

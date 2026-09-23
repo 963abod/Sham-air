@@ -1,0 +1,72 @@
+@import "tailwindcss";
+
+@theme {
+  --color-sham-dark: #0B0C0D;
+  --color-sham-ivory: #F4F0E7;
+  --color-sham-stone: #D8CDBA;
+  --color-sham-brass: #B79A63;
+  --color-sham-brass-hover: #9E824F;
+  --color-sham-olive: #344238;
+  --color-sham-basalt: #292A29;
+  --color-sham-card-dark: #121416;
+  --color-sham-border-dark: #222529;
+
+  --font-arabic-title: var(--font-alexandria), sans-serif;
+  --font-arabic-body: var(--font-ibm-plex-arabic), sans-serif;
+  --font-latin-title: var(--font-cormorant), serif;
+  --font-latin-body: var(--font-manrope), sans-serif;
+
+  --shadow-luxury: 0 30px 60px -12px rgba(0, 0, 0, 0.65), 0 18px 36px -18px rgba(183, 154, 99, 0.12);
+  --shadow-brass-glow: 0 0 25px rgba(183, 154, 99, 0.25);
+}
+
+:root {
+  --background: #0B0C0D;
+  --foreground: #F4F0E7;
+}
+
+body {
+  background-color: var(--background);
+  color: var(--foreground);
+  font-family: var(--font-manrope), sans-serif;
+  overflow-x: hidden;
+}
+
+/* Custom Utilities for Ablaq & Damascus Styling */
+.bg-damascus-gradient {
+  background-image: linear-gradient(135deg, #0B0C0D 0%, #16181A 100%);
+}
+
+.bg-ablaq-subtle {
+  background-image: repeating-linear-gradient(45deg, #121416, #121416 10px, #17191C 10px, #17191C 20px);
+}
+
+.glass-panel {
+  background: rgba(18, 20, 22, 0.75);
+  backdrop-filter: blur(16px);
+  -webkit-backdrop-filter: blur(16px);
+  border: 1px solid rgba(183, 154, 99, 0.15);
+}
+
+.glass-panel-gold {
+  background: rgba(22, 20, 16, 0.85);
+  backdrop-filter: blur(20px);
+  -webkit-backdrop-filter: blur(20px);
+  border: 1px solid rgba(183, 154, 99, 0.35);
+}
+
+/* Custom Scrollbar */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+::-webkit-scrollbar-track {
+  background: #0B0C0D;
+}
+::-webkit-scrollbar-thumb {
+  background: #222529;
+  border-radius: 3px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #B79A63;
+}
