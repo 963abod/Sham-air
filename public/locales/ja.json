@@ -1,0 +1,7 @@
+{
+  "tagline": "ダマスカスから、世界へ。",
+  "brand": "SHAM AIR",
+  "nav": { "book": "航空券予約", "destinations": "就航地", "experience": "機内体験", "fleet": "フリート", "flightStatus": "運航状況", "checkIn": "チェックイン", "manage": "予約管理", "privilege": "Sham Privilege" },
+  "hero": { "title": "雲の上のダマスカスラグジュアリー", "subtitle": "ダマスカスと世界を結ぶ最高峰のウルトララグジュアリー航空会社。", "ctaBook": "今すぐ予約", "ctaDiscover": "フリートを見る" },
+  "booking": { "roundTrip": "往復", "oneWay": "片道", "multiCity": "周遊", "from": "出発地", "to": "到着地", "depart": "往路", "return": "復路", "passengers": "搭乗者", "class": "クラス", "search": "便を検索" }
+}

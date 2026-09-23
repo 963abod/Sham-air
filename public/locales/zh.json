@@ -1,0 +1,7 @@
+{
+  "tagline": "从大马士革，飞向世界。",
+  "brand": "SHAM AIR",
+  "nav": { "book": "预订航班", "destinations": "目的地", "experience": "飞行体验", "fleet": "机队", "flightStatus": "航班动态", "checkIn": "值机", "manage": "管理行程", "privilege": "Sham Privilege" },
+  "hero": { "title": "云端上的大马士革皇家奢华", "subtitle": "连接历史名城大马士革与全球的顶尖奢华航空公司。", "ctaBook": "立即预订", "ctaDiscover": "探索机队" },
+  "booking": { "roundTrip": "往返", "oneWay": "单程", "multiCity": "多目的地", "from": "出发地", "to": "目的地", "depart": "出发日期", "return": "返回日期", "passengers": "乘客", "class": "舱位", "search": "搜索航班" }
+}

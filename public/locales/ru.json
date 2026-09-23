@@ -1,0 +1,7 @@
+{
+  "tagline": "ИЗ ДАМАСКА — ВСЕМУ МИРУ.",
+  "brand": "SHAM AIR",
+  "nav": { "book": "Забронировать", "destinations": "Направления", "experience": "На борту", "fleet": "Флот", "flightStatus": "Статус рейса", "checkIn": "Регистрация", "manage": "Управление бронированием", "privilege": "Sham Privilege" },
+  "hero": { "title": "Дамасская роскошь над облаками", "subtitle": "Ультралюксовая авиакомпания, соединяющая Дамаск с миром.", "ctaBook": "Забронировать", "ctaDiscover": "О флоте" },
+  "booking": { "roundTrip": "Туда и обратно", "oneWay": "В одну сторону", "multiCity": "Сложный маршрут", "from": "Откуда", "to": "Куда", "depart": "Вылет", "return": "Обратно", "passengers": "Пассажиры", "class": "Класс", "search": "Найти рейсы" }
+}

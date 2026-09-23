@@ -1,0 +1,7 @@
+{
+  "tagline": "DE DAMAS, AU MONDE.",
+  "brand": "SHAM AIR",
+  "nav": { "book": "Réserver", "destinations": "Destinations", "experience": "L'Expérience", "fleet": "Flotte", "flightStatus": "Statut du Vol", "checkIn": "Enregistrement", "manage": "Gérer ma Réservation", "privilege": "Sham Privilège" },
+  "hero": { "title": "Luxe Impérial Damascène au-dessus des Nuages", "subtitle": "La compagnie aérienne ultra-luxe reliant Damas au monde.", "ctaBook": "Réserver", "ctaDiscover": "Découvrir la Flotte" },
+  "booking": { "roundTrip": "Aller-Retour", "oneWay": "Aller Simple", "multiCity": "Multi-Destinations", "from": "De", "to": "À", "depart": "Départ", "return": "Retour", "passengers": "Passagers", "class": "Classe", "search": "Rechercher" }
+}

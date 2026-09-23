@@ -1,0 +1,7 @@
+{
+  "tagline": "ŞAM'DAN DÜNYAYA.",
+  "brand": "SHAM AIR",
+  "nav": { "book": "Bilet Al", "destinations": "Rotalar", "experience": "Deneyim", "fleet": "Uçak Filosu", "flightStatus": "Uçuş Durumu", "checkIn": "Check-In", "manage": "Rezervasyon Yönetimi", "privilege": "Sham Privilege" },
+  "hero": { "title": "Bulutların Üzerinde Şam Lüksü", "subtitle": "Şam'ı dünyaya bağlayan ultra lüks havayolu deneyimi.", "ctaBook": "Hemen Bilet Al", "ctaDiscover": "Filoyu İncele" },
+  "booking": { "roundTrip": "Gidiş-Dönüş", "oneWay": "Tek Yön", "multiCity": "Çoklu Şehir", "from": "Nereden", "to": "Nereye", "depart": "Gidiş", "return": "Dönüş", "passengers": "Yolcu", "class": "Kabin", "search": "Uçuş Ara" }
+}
